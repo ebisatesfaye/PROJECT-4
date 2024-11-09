@@ -1,3 +1,3 @@
-                                                                               Responsive puppy-lovers website
-author eng.EBISA
+                                                        Responsive puppy-lovers website
+                                                           author eng.EBISA
  
